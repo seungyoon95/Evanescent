@@ -1,0 +1,43 @@
+body {
+    height: 100%;
+}
+
+#first_name {
+    margin-top: 10%;
+}
+
+#button_cancel {
+    margin-bottom: 10%;
+}
+
+input {
+    display: block;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background: #fff;
+    padding: 15px;
+    outline: none;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: 20px;
+}
+
+button {
+    background: #444444;
+    color: #fff;
+    border: 0px;
+    border-radius: 5px;
+    padding: 15px;
+    display: block;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    cursor: pointer;
+}
+
+button:hover {
+    opacity: 0.5;
+}
